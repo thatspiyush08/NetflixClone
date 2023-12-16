@@ -1,0 +1,235 @@
+#page1{
+    
+    background-image: url("Background1.jpg");
+    background-size: 1850px 800px; 
+    width: 1850px;
+    height: 800px;
+   
+}
+
+#background{
+    background-color:rgba(45,45,45, 1);
+    background-size: 5000px 5000px;
+    width:1855px;
+    height: 3000px;
+}
+
+#top{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#logo1{
+    padding-left: 100px;
+    margin-bottom: 100px;
+    cursor:pointer;
+    
+}
+
+#SignIn{
+    border-radius: 5px;
+    padding:10px ;
+    margin-right: 150px;
+    margin-top: 100px;
+    margin-bottom: 205px;
+    cursor:pointer;
+    color: white;
+    background-color: rgba(255, 0, 0, 0.8);
+    
+}
+
+#Heading1{
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    font-size:46px;
+}
+
+#Heading2{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-weight:lighter;
+   
+}
+
+#Heading3{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    font-weight:lighter;
+    
+   
+}
+
+#page1Bottom{
+    padding-top: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 405px;
+    width: 1850px;
+}
+
+#GetStartedImage{
+    
+    cursor: pointer;
+    
+}
+
+#email{
+    background-color: rgba(0, 0, 0, 0.4);
+    color: whitesmoke;
+    padding-right: 100px;
+    border-radius: 3px;
+    margin-right: 5px;
+    font-size: medium;
+    height: 45px;
+}
+
+
+#page2{
+
+    background-color: black;
+    margin-top:  5px;
+    background-size: 1850px 800px; 
+    width: 1850px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+}
+#textPage2{
+    /* padding: 200px; */
+    padding-top: 80px;
+    padding-left: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#tvImg{
+    position: absolute;
+}
+#tvVideo{
+    position: relative;
+    padding-right: 85px;
+    padding-top: 92px;
+}
+
+#page3{
+
+    background-color: black;
+    margin-top:  5px;
+    background-size: 1850px 800px; 
+    width: 1850px;
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#mobileImg{
+    position:absolute;
+}
+#downloads{
+    border-radius: 8px;
+    margin-left: 145px;
+
+    margin-top: 450px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+    position: relative;
+    width: 320px;
+    height: 60px;
+    border-color: #666;
+    border-style:groove;
+    display: flex;
+    justify-content:space-between;
+}
+
+#page4{
+    background-color: black;
+    margin-top:  5px;
+    background-size: 1850px 800px; 
+    width: 1850px;
+    height: 900px;
+    /* display:block;
+    padding-left: 550px; */
+    display: flex;
+    justify-content:center;
+    color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#Q1{
+    width: 1500px;
+    height:80px;
+    background-color:rgba(45,45,45, 1);
+    display: flex;
+    justify-content:space-between;
+    font-size: 30px;
+    font-family: inherit;
+    
+    
+}
+#Q2{
+    width: 1500px;
+    height:80px;
+    background-color:rgba(45,45,45, 1);
+    display: flex;
+    justify-content:space-between;
+    font-size: 30px;
+    font-family: inherit;
+
+}
+
+#Q3{
+    width: 1500px;
+    height:80px;
+    background-color:rgba(45,45,45, 1);
+    display: flex;
+    justify-content:space-between;
+    font-size: 30px;
+    font-family: inherit;
+}
+#Q4{
+    width: 1500px;
+    height:80px;
+    background-color:rgba(45,45,45, 1);
+    display: flex;
+    justify-content:space-between;
+    font-size: 30px;
+    font-family: inherit;
+}
+#Q5{
+    width: 1500px;
+    height:80px;
+    background-color:rgba(45,45,45, 1);
+    display: flex;
+    justify-content:space-between;
+    font-size: 30px;
+    font-family: inherit;
+}
+#Q6{
+    width: 1500px;
+    height:80px;
+    background-color:rgba(45,45,45, 1);
+    display: flex;
+    justify-content:space-between;
+    font-size: 30px;
+    font-family: inherit;
+}
+
+#page5 {
+    background-color: black;
+    margin-top: 5px;
+    background-size: 1850px 800px;
+    width: 1850px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none; 
+    color: white; 
+    padding-top: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
